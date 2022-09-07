@@ -24,4 +24,6 @@ Prerequisites:
  
  To delete integration, run following command
  
- kmael delete camel-basic
+ kamel delete camel-basic
+ 
+ ```
